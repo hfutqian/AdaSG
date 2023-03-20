@@ -17,5 +17,5 @@ python main.py --conf_path=./cifar100_resnet20.hocon --id=01
 
 To quantize the pre-trained ResNet-18 on ImageNet, run the following command:
 ```
-python main.py --conf_path=./imagenet_resnet18.hocon --id=01
+python main.py --conf_path=./imagenet_res18.hocon --id=01
 ```
